@@ -15,7 +15,7 @@ or apply with other environments, test, prod, etc.
 
 ### Access
 
-Run port-forward in one shell console
+Run port-forward
 
 ```
 $ kubectl get all -n 2048-dev
